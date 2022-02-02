@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm under graduate in software engineering. I love **codeing**. specialy in **React**, **Node**. I'm more interested in **MERNS** stack.
